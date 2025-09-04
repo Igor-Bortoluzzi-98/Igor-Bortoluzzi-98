@@ -1,6 +1,6 @@
 ### 🧑🏻‍💻 Igor Bortoluzzi Fernandes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Fernandes-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/igor-bortoluzzi-fernandes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Fernandes-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/igor-bortoluzzi-fernandes/)
 [![GitHub](https://img.shields.io/badge/GitHub-igorbfernandes-181717?style=for-the-badge&logo=github)](https://github.com/Igor-Bortoluzzi-98 )
 
 ### 👨‍💻 Sobre Mim
