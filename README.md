@@ -14,7 +14,7 @@ Minha paixão por tecnologia e inovação me guiou para a graduação em Anális
 - 🔧 Formação técnica em Mecatrônica e cursando Técnico em Manutenção Automotiva.
 - 🌱 Focado em aprender e aplicar novas tecnologias para o desenvolvimento de software.
 
-- ### 🚀 Meus Objetivos
+  ### 🚀 Meus Objetivos
 
 Atualmente, estou focado em aprofundar meus conhecimentos nas seguintes áreas:
 
