@@ -1,7 +1,6 @@
 ### 🧑🏻‍💻 Igor Bortoluzzi Fernandes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Fernandes-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/igor-bortoluzzi-fernandes/)
-[![GitHub](https://img.shields.io/badge/GitHub-igorbfernandes-181717?style=for-the-badge&logo=github)](https://github.com/Igor-Bortoluzzi-98 )
 
 ### 👨‍💻 Sobre Mim
 
@@ -14,7 +13,7 @@ Minha paixão por tecnologia e inovação me guiou para a graduação em Anális
 - 🔧 Formação técnica em Mecatrônica e cursando Técnico em Manutenção Automotiva.
 - 🌱 Focado em aprender e aplicar novas tecnologias para o desenvolvimento de software.
 
-  ### 🚀 Meus Objetivos
+ ### 🚀 Meus Objetivos
 
 Atualmente, estou focado em aprofundar meus conhecimentos nas seguintes áreas:
 
