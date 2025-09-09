@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Fernandes-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/igor-bortoluzzi-fernandes/)
 
-### 👨‍💻 Sobre Mim
+### 👤 Sobre Mim
 
 Sou um profissional com uma sólida bagagem na área automotiva e base técnica em Mecatrônica. Atualmente, atuo como Técnico de Aplicação enquanto também curso Técnico em Manutenção Automotiva.
 
@@ -11,7 +11,7 @@ Minha paixão por tecnologia e inovação me guiou para a graduação em Anális
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul - Unifran).
 - 🚗 Experiência prática como Técnico de Aplicação no setor automotivo.
 - 🔧 Formação técnica em Mecatrônica e cursando Técnico em Manutenção Automotiva.
-- 🌱 Focado em aprender e aplicar novas tecnologias para o desenvolvimento de software.
+- 💻 Focado em aprender e aplicar novas tecnologias para o desenvolvimento de software.
 
  ### 🚀 Meus Objetivos
 
